@@ -135,8 +135,16 @@ button{
         }
       header{
           width:100%;
+          margin:0px;
       }
       .HY{
-          width:30%
+        position: absolute;
+        top:25%;
+        left:39%;
+      }
+      .HYY{
+        position: absolute;
+        top:25%;
+        left:43%;
       }
   }
